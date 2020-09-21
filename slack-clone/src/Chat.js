@@ -34,7 +34,7 @@ function Chat() {
       <div className="chat__header">
         <div className="chat__headerLeft">
           <h4 className="chat__channelName">
-            <strong># {roomDetails?.name}</strong>
+            <strong> # {roomDetails?.name}</strong>
             <StarBorderOutlinedIcon />
           </h4>
         </div>
@@ -43,20 +43,20 @@ function Chat() {
             <InfoOutlinedIcon /> Details
           </p>
         </div>
-
-        <div className="chat__messages">
-          {roomMessages.map(({ message, timestamp, user, userImage }) => (
-            <Message
-              message={message}
-              timestamp={timestamp}
-              user={user}
-              userImage={userImage}
-            />
-          ))}
-        </div>
-
-        <ChatInput channelName={roomDetails?.name} channelId={roomId} />
       </div>
+
+      <div className="chat__messages">
+        {roomMessages.map(({ message, timestamp, user, userImage }) => (
+          <Message
+            message={message}
+            timestamp={timestamp}
+            user={user}
+            userImage={userImage}
+          />
+        ))}
+      </div>
+
+      <ChatInput channelName={roomDetails?.name} channelId={roomId} />
     </div>
   );
 }

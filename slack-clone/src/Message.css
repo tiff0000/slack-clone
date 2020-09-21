@@ -10,6 +10,10 @@
   object-fit: contain;
 }
 
+.message__info {
+  padding-left: 10px;
+}
+
 .message__timestamp {
   color: gray;
   font-weight: 300;
