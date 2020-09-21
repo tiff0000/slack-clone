@@ -25,6 +25,7 @@
   font-size: 18px;
   background-color: white;
   border-radius: 999px;
+  cursor: pointer;
 }
 
 .sidebar__info {

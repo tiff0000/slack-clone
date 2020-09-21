@@ -12,7 +12,7 @@ function Login() {
     auth
       .signInWithPopup(provider)
       .then((result) => {
-        console.log(result);
+        // push the google user info to the data layer
         dispatch({
           type: actionTypes.SET_USER,
           user: result.user,
