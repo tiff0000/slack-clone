@@ -21,7 +21,7 @@ Inside slack-clone folder:
 
 `npm start`
 
-/images/Screen Shot 2020-09-21 at 6.31.45 AM.png ![Screen Shot 2020-09-21 at 6.31.03 AM](./images/Screen Shot 2020-09-21 at 6.31.03 AM.png)
+ ![Screen Shot 2020-09-21 at 6.31.03 AM](./images/Screen Shot 2020-09-21 at 6.31.03 AM.png)
 
 
 
