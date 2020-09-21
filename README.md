@@ -22,14 +22,14 @@ Inside slack-clone folder:
 
 `npm start`
 
- ![login](./images/login.png)
+ ![login](/images/login.png)
 
 
 
 
 
-![channel 1](./images/channel1.png)
+![channel 1](/images/channel1.png)
 
 
 
-![channel 2](./images/channel2.png)
+![channel 2](/images/channel2.png)
