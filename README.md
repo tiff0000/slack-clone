@@ -17,18 +17,19 @@ Demo: https://slack-clone-8dc37.web.app/
 To Run the App:
 
 Inside slack-clone folder: 
+
 `npm i`
 
 `npm start`
 
- ![Screen Shot 2020-09-21 at 6.31.03 AM](./images/Screen Shot 2020-09-21 at 6.31.03 AM.png)
+ ![login](./images/login.png)
 
 
 
 
 
-![Screen Shot 2020-09-21 at 6.31.45 AM](./images/Screen Shot 2020-09-21 at 6.31.45 AM.png)
+![channel 1](./images/channel1.png)
 
 
 
-![Screen Shot 2020-09-21 at 6.31.55 AM](./images/Screen Shot 2020-09-21 at 6.31.55 AM.png)
+![channel 2](./images/channel2.png)
